@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jifoltech
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently a full-stack developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jeremiebo007@gmail.com
 
