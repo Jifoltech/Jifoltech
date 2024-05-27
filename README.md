@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jifoltech
 - 👀 I’m interested in Web development
-- 🌱 I’m currently a full-stack developer
+- 🌱 I’m currently a MERN-Stack Web Developer
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jeremiebo007@gmail.com
 
